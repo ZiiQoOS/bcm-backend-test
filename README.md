@@ -1,5 +1,5 @@
-# bcm-backend-test
-This project was a technical test for the position of a full stack intern in [BCM Energy ](https://www.bcmenergy.fr/)
+# BCM Energy backend test
+This project was a technical test for the position of a full stack intern in [BCM Energy](https://www.bcmenergy.fr/)
 # Objective
 
 The goal here is to create an API that returns flights information. Basically we're trying to develop an API that supplies aggregated flight searches results across multiple providers (skyscanner clone). 
