@@ -53,4 +53,11 @@ app.get('/api/token', (res, req) => {
     res.send({token: 'UNQ_TKN'})
 });
 
+/*
+
+    if there is an overlap on the search request , we can use a load balancer to distribute the traffic across other servers,
+    to decrease the number of concurrent users on the same resource.
+
+ */
+
 app.listen(port, () => console.log(`The app listening on port ${port}!`));
