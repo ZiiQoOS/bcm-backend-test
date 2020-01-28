@@ -1,0 +1,18 @@
+{
+  "port": 3001,
+  "XAPIKey": "dd764f40",
+  "providers": {
+    "air_beam": {
+      "name": "AIR_BEAM",
+      "baseURL": "https://my.api.mockaroo.com/air-beam/"
+    },
+    "air_jazz": {
+      "name": "AIR_JAZZ",
+      "baseURL": "https://my.api.mockaroo.com/air-jazz/"
+    },
+    "air_moon": {
+      "name": "AIR_MOON",
+      "baseURL": "https://my.api.mockaroo.com/air-moon/"
+    }
+  }
+}
